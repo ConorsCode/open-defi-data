@@ -1,0 +1,11 @@
+{
+  "name": "open-defi-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A free, daily-updated dataset of DeFi protocol TVL, yield pool APY, and stablecoin supply, pulled from DefiLlama's public API.",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs"
+  },
+  "license": "MIT"
+}
