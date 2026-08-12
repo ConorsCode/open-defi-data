@@ -1,7 +1,7 @@
 {
   "minTvlUsd": 1000000,
   "note": "Highest-APY pools with tvlUsd >= minTvlUsd and outlier=false. This is a point-in-time snapshot, not a recommendation or investment advice — high APY frequently reflects high risk, incentive emissions that will taper, or unsustainable tokenomics. Always verify independently before acting on any figure here.",
-  "generatedAt": "2026-08-12T21:39:28.784Z",
+  "generatedAt": "2026-08-12T21:40:06.626Z",
   "pools": [
     {
       "poolId": "aae6cc3a-783b-4a76-bea7-c3edccd28d62",
@@ -19,7 +19,7 @@
       "exposure": "multi",
       "poolMeta": "CL50 - 0.0548%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "518e615a-2174-473f-8913-192484da7f7e",
@@ -37,7 +37,7 @@
       "exposure": "multi",
       "poolMeta": "0.25%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "0984238e-3eae-497c-ad47-b1c29a7aa71f",
@@ -55,7 +55,7 @@
       "exposure": "single",
       "poolMeta": "V3 Vault + Locked LP",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "08e1a166-5366-4f57-bef8-76acb53699f0",
@@ -73,7 +73,7 @@
       "exposure": "multi",
       "poolMeta": "CL50 - 0.05%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "847c874f-d4e7-47ed-8870-97d2f24a8767",
@@ -91,7 +91,7 @@
       "exposure": "multi",
       "poolMeta": "CL50 - 0.007%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "12edc6f3-4926-4b4f-b97c-38ef6a458574",
@@ -109,7 +109,7 @@
       "exposure": "multi",
       "poolMeta": "Standard - 0.25%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.568Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "61e26935-9ba4-4477-815a-d93c5d445b04",
@@ -127,7 +127,7 @@
       "exposure": "multi",
       "poolMeta": "1.00%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "3fea9aec-48b6-4ad3-bd04-f69188bead1d",
@@ -145,7 +145,7 @@
       "exposure": "multi",
       "poolMeta": "CL200 - 0.25%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "46ac97f1-cb18-40ad-9ae6-b6c31981684c",
@@ -163,7 +163,7 @@
       "exposure": "multi",
       "poolMeta": "0.30%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.568Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "eec57259-b836-4431-83cc-1306bc897a71",
@@ -181,7 +181,7 @@
       "exposure": "multi",
       "poolMeta": "0.3%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "171852e8-a9b2-403d-a4da-ddbdf261daa6",
@@ -199,7 +199,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "98c8a2c6-8aa8-434a-a900-e5f99a03e449",
@@ -217,7 +217,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "c886ec66-199e-48d8-ac13-4e39bae18e8f",
@@ -235,7 +235,7 @@
       "exposure": "single",
       "poolMeta": "For LP | Maturity 27AUG2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "ebef0664-2c98-47c3-9470-6ae5998c167a",
@@ -253,7 +253,7 @@
       "exposure": "single",
       "poolMeta": "For buying PT-STRCx-27AUG2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "d32f9c01-47d1-4077-8c73-8b91b08d1e91",
@@ -271,7 +271,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.567Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "098680ea-cbb6-4ea0-964d-82fb130e682f",
@@ -289,7 +289,7 @@
       "exposure": "single",
       "poolMeta": "For buying PT-sUSD3-17DEC2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "75641161-b710-5671-acac-0d2f22c3faf3",
@@ -307,7 +307,7 @@
       "exposure": "multi",
       "poolMeta": "Concentrated - 0.01%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "2904a15c-ecb8-4d5d-895d-b25af8f818e8",
@@ -325,7 +325,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "69c0fc74-dee5-4c60-9aed-a593661d54ea",
@@ -343,7 +343,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "cd24920c-7e1f-4473-81de-b6fccd7ecdfd",
@@ -361,7 +361,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "e5a189bc-ef80-4f8c-bfd5-c521a0e92c24",
@@ -379,7 +379,7 @@
       "exposure": "single",
       "poolMeta": "For LP | Maturity 17DEC2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "3f3d129e-2891-4b9e-aba1-07adf8acd5f6",
@@ -397,7 +397,7 @@
       "exposure": "single",
       "poolMeta": "Earn ACC Points",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "f807b170-a976-55d3-88f1-f4fda5900fa2",
@@ -415,7 +415,7 @@
       "exposure": "single",
       "poolMeta": "For buying PT-sUSDat-14JAN2027",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "696b786c-4a19-4fd2-a1b5-a4f8df762918",
@@ -433,7 +433,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "1a72e920-0b77-4d75-8e90-d26aa872f0cc",
@@ -451,7 +451,7 @@
       "exposure": "multi",
       "poolMeta": "CL 0.08%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "ca3f5b8f-896d-4e54-9602-ccaa47727fa2",
@@ -469,7 +469,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "af5844bd-59e8-4dbf-be0c-f855a860a426",
@@ -487,7 +487,7 @@
       "exposure": "multi",
       "poolMeta": "0.05%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "4bda7d26-3d08-4898-9845-0c861cfe3879",
@@ -505,7 +505,7 @@
       "exposure": "multi",
       "poolMeta": "0.30%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "d853189e-6f71-45d0-b3ee-b3b989faa447",
@@ -523,7 +523,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "b395019b-ecc9-430d-be47-617f13fa3975",
@@ -541,7 +541,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "d375185a-a911-460d-ad17-0362508660bf",
@@ -559,7 +559,7 @@
       "exposure": "multi",
       "poolMeta": "0.30%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "bfbbf2f7-d7d8-4bb7-8c4e-f7d0399f77d0",
@@ -577,7 +577,7 @@
       "exposure": "single",
       "poolMeta": "For buying PT-jrRoyAPYUSD-05NOV2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "47e72726-3b2b-4fe6-b4a9-a26e1fcd9a50",
@@ -595,7 +595,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.567Z"
+      "scrapedAt": "2026-08-12T21:40:06.453Z"
     },
     {
       "poolId": "ce8d4fdf-748d-46b7-833a-224cb15386d5",
@@ -613,7 +613,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "6249eadc-249b-4227-92a2-d8676a1df08c",
@@ -631,7 +631,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "fba8d3b6-3034-493d-91b6-603c481acbf3",
@@ -649,7 +649,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "02ad75ab-b463-465f-a942-1c858ab4fd17",
@@ -667,7 +667,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "2c9d004f-649b-4d6c-9efb-d4759f132361",
@@ -685,7 +685,7 @@
       "exposure": "single",
       "poolMeta": "For buying PT-reUSDe-10DEC2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "22e7a8b0-0e53-4365-a2b4-753a0a29e251",
@@ -703,7 +703,7 @@
       "exposure": "single",
       "poolMeta": "For buying PT-apyUSD-27AUG2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.568Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "85dded37-c55d-4b2c-aca1-a136854bec51",
@@ -721,7 +721,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "efa5ce76-dc4f-4d06-a9d4-0e09c4dcd0a1",
@@ -739,7 +739,7 @@
       "exposure": "multi",
       "poolMeta": "Standard - 0.25%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.568Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "79a3b6ae-a514-4ee1-bc7f-36c71476f557",
@@ -757,7 +757,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.568Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "bfb4d5f7-8479-4695-bb29-1c72b2407333",
@@ -775,7 +775,7 @@
       "exposure": "single",
       "poolMeta": "For LP | Maturity 10DEC2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "4f0c0906-629c-4c18-9476-ebf0f628bc2b",
@@ -793,7 +793,7 @@
       "exposure": "single",
       "poolMeta": "For LP | Maturity 27AUG2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.568Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "7039a10f-ef49-410d-b003-83c531932c05",
@@ -811,7 +811,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "cc5c8175-bdfa-442f-870b-6f2cdec94854",
@@ -829,7 +829,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "691a2aaa-cef5-4a6a-a3f3-86170fada8f4",
@@ -847,7 +847,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.568Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "b318f61c-b1b1-4bed-9fcd-421c50dcd1c3",
@@ -865,7 +865,7 @@
       "exposure": "multi",
       "poolMeta": "0.3%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "804a0c7b-7eb7-4b75-b066-4c568704fefe",
@@ -883,7 +883,7 @@
       "exposure": "multi",
       "poolMeta": "Standard - 0.25%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "321b0f91-21ca-438b-966e-78946e275589",
@@ -901,7 +901,7 @@
       "exposure": "multi",
       "poolMeta": "Curve",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "ab10cba6-ae66-4a91-9544-499c375853f9",
@@ -919,7 +919,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "320550a3-b7c4-4017-a5dd-f3ebed459470",
@@ -937,7 +937,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.568Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "de3fb17c-f3f4-463a-880e-7111ebcab1ba",
@@ -955,7 +955,7 @@
       "exposure": "multi",
       "poolMeta": "Curve",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "d1521ec4-45af-4764-8b97-be76701d5a0e",
@@ -973,7 +973,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "9fe33fd6-d3f3-4dbe-9187-7bff012e79f5",
@@ -991,7 +991,7 @@
       "exposure": "single",
       "poolMeta": "For buying PT-apyUSD-05NOV2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "9b018262-dd3e-5303-9c98-79827116a410",
@@ -1009,7 +1009,7 @@
       "exposure": "single",
       "poolMeta": "delegated",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "e53ed73e-e7c7-589b-ba90-a249710507fc",
@@ -1027,7 +1027,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "8dc83a62-a160-4bcf-ac7f-a1f812a317dc",
@@ -1045,7 +1045,7 @@
       "exposure": "single",
       "poolMeta": "For LP | Maturity 05NOV2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "d48e9c5a-7c28-4192-ab3d-795b5fbed7be",
@@ -1063,7 +1063,7 @@
       "exposure": "single",
       "poolMeta": "mEDGE",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "7344d0ac-fcec-4886-827e-5b98716735d1",
@@ -1081,7 +1081,7 @@
       "exposure": "multi",
       "poolMeta": "0.30%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "ee024c35-c5c3-4a41-9018-75f72ec7ae4a",
@@ -1099,7 +1099,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "5b0d9168-00ca-4326-bdd5-04eed0e9b4a7",
@@ -1117,7 +1117,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "c7a1e6c3-e50e-41a7-8bbe-33c88d26b8d0",
@@ -1135,7 +1135,7 @@
       "exposure": "single",
       "poolMeta": "mBASIS",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "a34c8a80-0001-4fc3-9402-7d6ac3e5234a",
@@ -1153,7 +1153,7 @@
       "exposure": "multi",
       "poolMeta": "0.01%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.568Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "1e958818-9a22-46b0-8567-12cb34fb4eb1",
@@ -1171,7 +1171,7 @@
       "exposure": "multi",
       "poolMeta": "Standard - 0.25%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "6b928a97-3519-4cf4-a0e2-c91f34e719db",
@@ -1189,7 +1189,7 @@
       "exposure": "multi",
       "poolMeta": "0.05%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "738aef5d-f33a-4a31-a250-b307a76e7a5d",
@@ -1207,7 +1207,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "1a9c61c7-4094-4ee7-8d46-6ea8fb5689f1",
@@ -1225,7 +1225,7 @@
       "exposure": "single",
       "poolMeta": "Earn ACC Points",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.567Z"
+      "scrapedAt": "2026-08-12T21:40:06.453Z"
     },
     {
       "poolId": "b22e6842-0f1b-4b6e-b172-0bfadca52d65",
@@ -1243,7 +1243,7 @@
       "exposure": "single",
       "poolMeta": "For buying PT-sENA-24SEPT2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "e6ae5236-a78a-4ddb-b5f7-da2fea18f96c",
@@ -1261,7 +1261,7 @@
       "exposure": "single",
       "poolMeta": "Omnipool",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "3f28e2f0-a6ef-401a-ad36-d2ded296f11a",
@@ -1279,7 +1279,7 @@
       "exposure": "single",
       "poolMeta": "For LP | Maturity 17SEPT2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "1971c939-46e4-4b86-87d9-78308de47af7",
@@ -1297,7 +1297,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "6e1583f9-f13b-44e2-bb17-816a2e2ba6bb",
@@ -1315,7 +1315,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "aa2e7ba7-b158-4f95-900c-3a60fce9b795",
@@ -1333,7 +1333,7 @@
       "exposure": "multi",
       "poolMeta": "0.3%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "a99bb965-ebaa-4d98-9ed2-fa18de52c605",
@@ -1351,7 +1351,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.568Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "fd1b5014-9f4d-4401-be3d-1188da497c6a",
@@ -1369,7 +1369,7 @@
       "exposure": "multi",
       "poolMeta": "Curve",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "d8490bb4-a01e-4f21-aaaf-15e6e953951d",
@@ -1387,7 +1387,7 @@
       "exposure": "multi",
       "poolMeta": "1.00%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "fd90352e-6772-472c-a0d4-cdef49027da5",
@@ -1405,7 +1405,7 @@
       "exposure": "multi",
       "poolMeta": "0.05% fee | CL range 0.23%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "665dc8bc-c79d-4800-97f7-304bf368e547",
@@ -1423,7 +1423,7 @@
       "exposure": "multi",
       "poolMeta": "0.05%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.567Z"
+      "scrapedAt": "2026-08-12T21:40:06.453Z"
     },
     {
       "poolId": "d881b1cf-fe86-43cc-b76a-96444bd850ec",
@@ -1441,7 +1441,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "25d9dc49-3182-493a-bda4-0db53b25f457",
@@ -1459,7 +1459,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "f183f1a4-5d17-4bfa-8270-32d861a13fd3",
@@ -1477,7 +1477,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "7801e6b3-5cb8-404f-9393-49ec05dcc462",
@@ -1495,7 +1495,7 @@
       "exposure": "single",
       "poolMeta": "For buying PT-nOPAL-17SEPT2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "b6490fe9-b16a-4ccf-8701-cbded659b397",
@@ -1513,7 +1513,7 @@
       "exposure": "single",
       "poolMeta": "For buying PT-USD3-17DEC2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.568Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "ae6e839f-4361-40d4-a60e-1db3793dd70d",
@@ -1531,7 +1531,7 @@
       "exposure": "single",
       "poolMeta": "Aave",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "3b4012c9-b702-4ee9-8215-b60732fdf513",
@@ -1549,7 +1549,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "0e818d38-c480-44a6-a533-5666ed59e50c",
@@ -1567,7 +1567,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "cb6139f9-4a68-4efd-8245-0312a92aee55",
@@ -1585,7 +1585,7 @@
       "exposure": "single",
       "poolMeta": "apyUSD vault",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.567Z"
+      "scrapedAt": "2026-08-12T21:40:06.453Z"
     },
     {
       "poolId": "ce74b9e0-376d-45ea-b1a4-362de60c12ce",
@@ -1603,7 +1603,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "727fc50d-b687-4f74-a30e-ee961c25c5e3",
@@ -1621,7 +1621,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "6f7708a9-58d0-4941-a06a-b83e91b06903",
@@ -1639,7 +1639,7 @@
       "exposure": "multi",
       "poolMeta": "Concentrated - 0.1%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "f3c5aa2a-1bd3-45fd-a69b-8741fb1ba62b",
@@ -1657,7 +1657,7 @@
       "exposure": "single",
       "poolMeta": "For buying PT-sUSDat-27AUG2026",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "0d9e7113-c9bc-4fb6-b138-5ca6f6944d6d",
@@ -1675,7 +1675,7 @@
       "exposure": "single",
       "poolMeta": "Curve",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.567Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "69e053b2-dd99-4c52-beff-a9938cb62fa0",
@@ -1693,7 +1693,7 @@
       "exposure": "multi",
       "poolMeta": "Curve",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "a8782f8d-c32b-4497-a74f-1297d807a96e",
@@ -1711,7 +1711,7 @@
       "exposure": "multi",
       "poolMeta": "0.05%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "d85a7f5f-3624-4b6b-b3a7-eefb42b2a5e9",
@@ -1729,7 +1729,7 @@
       "exposure": "single",
       "poolMeta": "Pharos RealFi Ecosystem Vault",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.568Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "4a0746b8-61f7-40b2-9378-80e902aec4f9",
@@ -1747,7 +1747,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.570Z"
+      "scrapedAt": "2026-08-12T21:40:06.456Z"
     },
     {
       "poolId": "c77b9508-1a53-4ea1-9913-0207ce711fa2",
@@ -1765,7 +1765,7 @@
       "exposure": "multi",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     },
     {
       "poolId": "ee40513c-9356-4c53-9f26-446b484a8ae2",
@@ -1783,7 +1783,7 @@
       "exposure": "single",
       "poolMeta": null,
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.568Z"
+      "scrapedAt": "2026-08-12T21:40:06.454Z"
     },
     {
       "poolId": "4480844a-3f6b-5cfe-953e-6146f9c2f6ea",
@@ -1801,7 +1801,7 @@
       "exposure": "multi",
       "poolMeta": "0.05%",
       "outlier": false,
-      "scrapedAt": "2026-08-12T21:39:28.569Z"
+      "scrapedAt": "2026-08-12T21:40:06.455Z"
     }
   ]
 }
