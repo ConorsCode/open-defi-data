@@ -1,794 +1,808 @@
 [
   {
     "chain": "Ethereum",
-    "protocolTvlUsd": 290120365146.4677,
-    "protocolCount": 1852,
-    "poolCount": 5212,
-    "poolTvlUsd": 109751290873
+    "protocolTvlUsd": 290139156486.1201,
+    "protocolCount": 1856,
+    "poolCount": 5216,
+    "poolTvlUsd": 110338281836
   },
   {
     "chain": "Bitcoin",
-    "protocolTvlUsd": 155591106122.9926,
+    "protocolTvlUsd": 155098387902.92657,
     "protocolCount": 161,
     "poolCount": 3,
-    "poolTvlUsd": 204143549
+    "poolTvlUsd": 204022979
   },
   {
     "chain": "Binance",
-    "protocolTvlUsd": 42799217216.14688,
-    "protocolCount": 1112,
+    "protocolTvlUsd": 43120012618.666,
+    "protocolCount": 1113,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "borrowed",
-    "protocolTvlUsd": 32557265168.664497,
-    "protocolCount": 655,
+    "protocolTvlUsd": 32954386771.493717,
+    "protocolCount": 656,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Solana",
-    "protocolTvlUsd": 30307261586.640633,
-    "protocolCount": 446,
-    "poolCount": 2634,
-    "poolTvlUsd": 10423705100
+    "protocolTvlUsd": 30619806642.898293,
+    "protocolCount": 449,
+    "poolCount": 2649,
+    "poolTvlUsd": 10550210136
   },
   {
     "chain": "Tron",
-    "protocolTvlUsd": 20771339058.111576,
+    "protocolTvlUsd": 20338360401.880466,
     "protocolCount": 98,
     "poolCount": 24,
-    "poolTvlUsd": 4015734850
+    "poolTvlUsd": 4005894047
   },
   {
     "chain": "Base",
-    "protocolTvlUsd": 10796153896.843182,
-    "protocolCount": 873,
-    "poolCount": 3114,
-    "poolTvlUsd": 8207933431
+    "protocolTvlUsd": 10844774806.116669,
+    "protocolCount": 878,
+    "poolCount": 3130,
+    "poolTvlUsd": 8215483030
   },
   {
     "chain": "Hyperliquid L1",
-    "protocolTvlUsd": 9888998351.582623,
-    "protocolCount": 193,
-    "poolCount": 538,
-    "poolTvlUsd": 1870795702
+    "protocolTvlUsd": 9993607657.22486,
+    "protocolCount": 195,
+    "poolCount": 536,
+    "poolTvlUsd": 1899301088
   },
   {
     "chain": "staking",
-    "protocolTvlUsd": 7963777952.417997,
-    "protocolCount": 1735,
+    "protocolTvlUsd": 7918704579.013741,
+    "protocolCount": 1732,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "vesting",
-    "protocolTvlUsd": 6687476194.85074,
-    "protocolCount": 34,
+    "protocolTvlUsd": 6674948176.696181,
+    "protocolCount": 35,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Ripple",
-    "protocolTvlUsd": 6297423092.047486,
+    "protocolTvlUsd": 6185207625.366485,
     "protocolCount": 53,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Arbitrum",
-    "protocolTvlUsd": 4228576686.4707627,
-    "protocolCount": 1026,
-    "poolCount": 942,
-    "poolTvlUsd": 2837844281
+    "protocolTvlUsd": 4195633718.7576065,
+    "protocolCount": 1027,
+    "poolCount": 944,
+    "poolTvlUsd": 2835505425
   },
   {
     "chain": "X Layer",
-    "protocolTvlUsd": 2921438988.1452656,
+    "protocolTvlUsd": 2915761689.311925,
     "protocolCount": 57,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Doge",
-    "protocolTvlUsd": 2865472619.8828797,
+    "protocolTvlUsd": 2829520388.125931,
     "protocolCount": 29,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Avalanche",
-    "protocolTvlUsd": 2483599083.2658815,
-    "protocolCount": 548,
-    "poolCount": 276,
-    "poolTvlUsd": 1710945570
+    "protocolTvlUsd": 2499317433.434171,
+    "protocolCount": 549,
+    "poolCount": 304,
+    "poolTvlUsd": 1710161377
   },
   {
     "chain": "Monad",
-    "protocolTvlUsd": 2209900742.3124022,
-    "protocolCount": 138,
-    "poolCount": 258,
-    "poolTvlUsd": 1385143605
+    "protocolTvlUsd": 2228709155.4878397,
+    "protocolCount": 140,
+    "poolCount": 264,
+    "poolTvlUsd": 1404553562
   },
   {
     "chain": "Ink",
-    "protocolTvlUsd": 1988907237.4264534,
+    "protocolTvlUsd": 1992440172.7997193,
     "protocolCount": 28,
-    "poolCount": 31,
-    "poolTvlUsd": 153709743
+    "poolCount": 30,
+    "poolTvlUsd": 153047659
   },
   {
     "chain": "Sui",
-    "protocolTvlUsd": 1763877929.9752684,
+    "protocolTvlUsd": 1747368956.141568,
     "protocolCount": 125,
     "poolCount": 285,
-    "poolTvlUsd": 333462565
-  },
-  {
-    "chain": "Robinhood Chain",
-    "protocolTvlUsd": 1681650148.1276934,
-    "protocolCount": 212,
-    "poolCount": 59,
-    "poolTvlUsd": 1076669174
-  },
-  {
-    "chain": "Near",
-    "protocolTvlUsd": 1595927085.3445365,
-    "protocolCount": 43,
-    "poolCount": 10,
-    "poolTvlUsd": 66216762
-  },
-  {
-    "chain": "Plasma",
-    "protocolTvlUsd": 1565825672.3519704,
-    "protocolCount": 70,
-    "poolCount": 42,
-    "poolTvlUsd": 1017784109
+    "poolTvlUsd": 328255992
   },
   {
     "chain": "Optimism",
-    "protocolTvlUsd": 1444098149.6548097,
-    "protocolCount": 378,
+    "protocolTvlUsd": 1711086098.8020396,
+    "protocolCount": 379,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Polygon",
-    "protocolTvlUsd": 1193017893.298351,
-    "protocolCount": 711,
-    "poolCount": 561,
-    "poolTvlUsd": 267678422
+    "chain": "Robinhood Chain",
+    "protocolTvlUsd": 1701637224.6935992,
+    "protocolCount": 216,
+    "poolCount": 60,
+    "poolTvlUsd": 1092041402
   },
   {
-    "chain": "Mantle",
-    "protocolTvlUsd": 928397106.0292027,
-    "protocolCount": 127,
-    "poolCount": 36,
-    "poolTvlUsd": 199942890
+    "chain": "Plasma",
+    "protocolTvlUsd": 1492757752.6276116,
+    "protocolCount": 70,
+    "poolCount": 42,
+    "poolTvlUsd": 1010842758
+  },
+  {
+    "chain": "Near",
+    "protocolTvlUsd": 1491941846.3898456,
+    "protocolCount": 43,
+    "poolCount": 10,
+    "poolTvlUsd": 63535252
+  },
+  {
+    "chain": "Polygon",
+    "protocolTvlUsd": 1195905733.0114665,
+    "protocolCount": 713,
+    "poolCount": 556,
+    "poolTvlUsd": 266347589
   },
   {
     "chain": "TON",
-    "protocolTvlUsd": 913211399.1699778,
+    "protocolTvlUsd": 917151930.8165722,
     "protocolCount": 92,
-    "poolCount": 177,
-    "poolTvlUsd": 53938300
+    "poolCount": 176,
+    "poolTvlUsd": 54229757
+  },
+  {
+    "chain": "Mantle",
+    "protocolTvlUsd": 903470330.0301826,
+    "protocolCount": 127,
+    "poolCount": 36,
+    "poolTvlUsd": 199876862
   },
   {
     "chain": "Stellar",
-    "protocolTvlUsd": 835040641.7894065,
+    "protocolTvlUsd": 835601701.8140026,
     "protocolCount": 41,
-    "poolCount": 11,
-    "poolTvlUsd": 737310015
+    "poolCount": 12,
+    "poolTvlUsd": 734325137
+  },
+  {
+    "chain": "Litecoin",
+    "protocolTvlUsd": 737912700.1602268,
+    "protocolCount": 30,
+    "poolCount": 0,
+    "poolTvlUsd": 0
   },
   {
     "chain": "Bittensor",
-    "protocolTvlUsd": 686953870.251469,
+    "protocolTvlUsd": 676696282.2754322,
     "protocolCount": 7,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Litecoin",
-    "protocolTvlUsd": 666316944.0424455,
-    "protocolCount": 29,
-    "poolCount": 0,
-    "poolTvlUsd": 0
+    "chain": "Algorand",
+    "protocolTvlUsd": 601655576.2526141,
+    "protocolCount": 51,
+    "poolCount": 20,
+    "poolTvlUsd": 29558500
   },
   {
     "chain": "Arc",
-    "protocolTvlUsd": 545996638.4664209,
-    "protocolCount": 42,
+    "protocolTvlUsd": 526260657.90699047,
+    "protocolCount": 45,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Algorand",
-    "protocolTvlUsd": 544221056.4492189,
-    "protocolCount": 50,
-    "poolCount": 20,
-    "poolTvlUsd": 29171607
-  },
-  {
     "chain": "Flare",
-    "protocolTvlUsd": 488858592.7641594,
-    "protocolCount": 46,
-    "poolCount": 61,
-    "poolTvlUsd": 109770088
+    "protocolTvlUsd": 481774311.02600396,
+    "protocolCount": 47,
+    "poolCount": 63,
+    "poolTvlUsd": 108865305
   },
   {
     "chain": "Anubis",
-    "protocolTvlUsd": 421588252.1685672,
+    "protocolTvlUsd": 424110169.77548337,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "BSquared",
-    "protocolTvlUsd": 384625599.4259651,
+    "protocolTvlUsd": 383970452.6666553,
     "protocolCount": 26,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Hedera",
-    "protocolTvlUsd": 382073940.0643327,
-    "protocolCount": 27,
-    "poolCount": 25,
-    "poolTvlUsd": 4041127
-  },
-  {
     "chain": "Provenance",
-    "protocolTvlUsd": 360563215.57847327,
+    "protocolTvlUsd": 376138670.90321016,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "Hedera",
+    "protocolTvlUsd": 367597773.9074523,
+    "protocolCount": 27,
+    "poolCount": 25,
+    "poolTvlUsd": 3927349
+  },
+  {
     "chain": "xDai",
-    "protocolTvlUsd": 312316800.8874668,
+    "protocolTvlUsd": 312196126.2058359,
     "protocolCount": 81,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Pharos",
-    "protocolTvlUsd": 279575110.0721319,
+    "protocolTvlUsd": 281170909.1722788,
     "protocolCount": 16,
     "poolCount": 2,
-    "poolTvlUsd": 4504618
+    "poolTvlUsd": 4652451
   },
   {
     "chain": "Aptos",
-    "protocolTvlUsd": 271481824.8295034,
+    "protocolTvlUsd": 264153278.63914955,
     "protocolCount": 87,
     "poolCount": 61,
-    "poolTvlUsd": 996283069
+    "poolTvlUsd": 995996625
   },
   {
     "chain": "Starknet",
-    "protocolTvlUsd": 236425775.8421526,
+    "protocolTvlUsd": 242732413.14596567,
     "protocolCount": 55,
-    "poolCount": 126,
-    "poolTvlUsd": 58806927
-  },
-  {
-    "chain": "Sonic",
-    "protocolTvlUsd": 231561593.8185254,
-    "protocolCount": 174,
-    "poolCount": 90,
-    "poolTvlUsd": 38002964
+    "poolCount": 124,
+    "poolTvlUsd": 58788204
   },
   {
     "chain": "Cronos",
-    "protocolTvlUsd": 215045168.80232716,
+    "protocolTvlUsd": 219965126.83021688,
     "protocolCount": 136,
-    "poolCount": 212,
-    "poolTvlUsd": 149502928
-  },
-  {
-    "chain": "Cardano",
-    "protocolTvlUsd": 206959195.96011615,
-    "protocolCount": 83,
-    "poolCount": 92,
-    "poolTvlUsd": 25303103
+    "poolCount": 216,
+    "poolTvlUsd": 151200681
   },
   {
     "chain": "Plume Mainnet",
-    "protocolTvlUsd": 205057746.55515167,
+    "protocolTvlUsd": 205188906.9087962,
     "protocolCount": 41,
     "poolCount": 17,
-    "poolTvlUsd": 224232152
+    "poolTvlUsd": 225418576
+  },
+  {
+    "chain": "Cardano",
+    "protocolTvlUsd": 203720533.38402486,
+    "protocolCount": 83,
+    "poolCount": 92,
+    "poolTvlUsd": 24849914
+  },
+  {
+    "chain": "Sonic",
+    "protocolTvlUsd": 200947223.9004202,
+    "protocolCount": 173,
+    "poolCount": 87,
+    "poolTvlUsd": 38229695
   },
   {
     "chain": "Zcash",
-    "protocolTvlUsd": 204981199.1098236,
+    "protocolTvlUsd": 200718931.48821634,
     "protocolCount": 4,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "pool2",
-    "protocolTvlUsd": 168936735.88421062,
+    "protocolTvlUsd": 171832074.82299015,
     "protocolCount": 674,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "Stacks",
+    "protocolTvlUsd": 139845173.74050108,
+    "protocolCount": 19,
+    "poolCount": 10,
+    "poolTvlUsd": 113089692
+  },
+  {
     "chain": "Stable",
-    "protocolTvlUsd": 139505647.64841747,
+    "protocolTvlUsd": 139123867.59661326,
     "protocolCount": 19,
     "poolCount": 5,
-    "poolTvlUsd": 109429782
+    "poolTvlUsd": 109474433
   },
   {
     "chain": "ApeChain",
-    "protocolTvlUsd": 136925093.79263106,
+    "protocolTvlUsd": 134284076.95137152,
     "protocolCount": 20,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Stacks",
-    "protocolTvlUsd": 132048815.49168494,
-    "protocolCount": 19,
-    "poolCount": 10,
-    "poolTvlUsd": 106590582
-  },
-  {
     "chain": "Noble",
-    "protocolTvlUsd": 99594988.04416482,
+    "protocolTvlUsd": 98792922.74325988,
     "protocolCount": 2,
     "poolCount": 1,
-    "poolTvlUsd": 71784
+    "poolTvlUsd": 71791
   },
   {
     "chain": "Berachain",
-    "protocolTvlUsd": 98584184.8172798,
-    "protocolCount": 99,
+    "protocolTvlUsd": 98439241.08411627,
+    "protocolCount": 100,
     "poolCount": 79,
-    "poolTvlUsd": 145183937
+    "poolTvlUsd": 145093934
   },
   {
     "chain": "Sei",
-    "protocolTvlUsd": 98233575.06865236,
+    "protocolTvlUsd": 97796995.11262816,
     "protocolCount": 67,
     "poolCount": 11,
-    "poolTvlUsd": 336811778
+    "poolTvlUsd": 336726998
   },
   {
     "chain": "Tempo",
-    "protocolTvlUsd": 97820835.95331623,
+    "protocolTvlUsd": 97409741.9845874,
     "protocolCount": 11,
     "poolCount": 3,
-    "poolTvlUsd": 38562443
+    "poolTvlUsd": 39247290
   },
   {
     "chain": "Morph",
-    "protocolTvlUsd": 95824611.84236188,
+    "protocolTvlUsd": 95605231.73868,
     "protocolCount": 18,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "ZIGChain",
-    "protocolTvlUsd": 88296134.1310866,
+    "protocolTvlUsd": 88824654.32759823,
     "protocolCount": 5,
     "poolCount": 2,
-    "poolTvlUsd": 13606069
+    "poolTvlUsd": 13968796
   },
   {
     "chain": "Katana",
-    "protocolTvlUsd": 88286888.50494263,
+    "protocolTvlUsd": 87445033.25401695,
     "protocolCount": 28,
     "poolCount": 45,
-    "poolTvlUsd": 69167739
+    "poolTvlUsd": 68332262
   },
   {
-    "chain": "RSK",
-    "protocolTvlUsd": 86089287.86494052,
-    "protocolCount": 28,
-    "poolCount": 3,
-    "poolTvlUsd": 454499
-  },
-  {
-    "chain": "Pulse",
-    "protocolTvlUsd": 85701980.99842837,
-    "protocolCount": 63,
+    "chain": "Merlin",
+    "protocolTvlUsd": 85739531.90744612,
+    "protocolCount": 26,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "RSK",
+    "protocolTvlUsd": 85383817.35152677,
+    "protocolCount": 28,
+    "poolCount": 3,
+    "poolTvlUsd": 456225
+  },
+  {
+    "chain": "Mezo",
+    "protocolTvlUsd": 85085997.35004485,
+    "protocolCount": 10,
+    "poolCount": 5,
+    "poolTvlUsd": 76714789
+  },
+  {
+    "chain": "Fantom",
+    "protocolTvlUsd": 84989927.58010593,
+    "protocolCount": 335,
+    "poolCount": 11,
+    "poolTvlUsd": 4710223
+  },
+  {
     "chain": "AILayer",
-    "protocolTvlUsd": 85380247.45685425,
+    "protocolTvlUsd": 84973553.14033386,
     "protocolCount": 7,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "dYdX",
-    "protocolTvlUsd": 84947631.93052876,
+    "protocolTvlUsd": 83838931.94136967,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Merlin",
-    "protocolTvlUsd": 84108072.83982688,
-    "protocolCount": 26,
+    "chain": "Pulse",
+    "protocolTvlUsd": 81835436.02694924,
+    "protocolCount": 63,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Klaytn",
-    "protocolTvlUsd": 75642546.79039006,
-    "protocolCount": 78,
+    "protocolTvlUsd": 80622616.84905382,
+    "protocolCount": 77,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Mezo",
-    "protocolTvlUsd": 74704276.17247643,
-    "protocolCount": 10,
-    "poolCount": 5,
-    "poolTvlUsd": 71558809
-  },
-  {
     "chain": "World Chain",
-    "protocolTvlUsd": 72466011.33516288,
+    "protocolTvlUsd": 73294155.47765513,
     "protocolCount": 23,
     "poolCount": 1,
-    "poolTvlUsd": 28949
+    "poolTvlUsd": 29618
   },
   {
     "chain": "Fetch Hub",
-    "protocolTvlUsd": 58251287.10720737,
+    "protocolTvlUsd": 59207824.71594187,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "GateLayer",
-    "protocolTvlUsd": 57328956.87050488,
+    "protocolTvlUsd": 58497007.440239936,
     "protocolCount": 4,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "HydraDX",
-    "protocolTvlUsd": 57053647.41202279,
+    "protocolTvlUsd": 57248677.75988071,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Hemi",
-    "protocolTvlUsd": 56393990.20976987,
+    "protocolTvlUsd": 56901951.43567384,
     "protocolCount": 37,
     "poolCount": 6,
-    "poolTvlUsd": 346801
+    "poolTvlUsd": 351646
   },
   {
     "chain": "Proton",
-    "protocolTvlUsd": 54604596.53994931,
+    "protocolTvlUsd": 53686335.67634518,
     "protocolCount": 4,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Linea",
-    "protocolTvlUsd": 52583666.07002828,
-    "protocolCount": 157,
-    "poolCount": 46,
-    "poolTvlUsd": 211879010
+    "protocolTvlUsd": 52772144.28180586,
+    "protocolCount": 158,
+    "poolCount": 50,
+    "poolTvlUsd": 212442183
   },
   {
     "chain": "EOS",
-    "protocolTvlUsd": 47350908.46261143,
+    "protocolTvlUsd": 47296712.55482406,
     "protocolCount": 29,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Thorchain",
-    "protocolTvlUsd": 46203222.04072028,
+    "protocolTvlUsd": 46598010.658134766,
     "protocolCount": 8,
     "poolCount": 9,
-    "poolTvlUsd": 14400487
+    "poolTvlUsd": 14433802
+  },
+  {
+    "chain": "BOB",
+    "protocolTvlUsd": 45933579.40247267,
+    "protocolCount": 29,
+    "poolCount": 0,
+    "poolTvlUsd": 0
   },
   {
     "chain": "Chiliz",
-    "protocolTvlUsd": 42090039.42451788,
+    "protocolTvlUsd": 41084641.59545658,
     "protocolCount": 12,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Filecoin",
-    "protocolTvlUsd": 41882392.3305951,
+    "protocolTvlUsd": 39605011.92935693,
     "protocolCount": 22,
     "poolCount": 3,
-    "poolTvlUsd": 29148621
-  },
-  {
-    "chain": "Kava",
-    "protocolTvlUsd": 41026046.84710133,
-    "protocolCount": 134,
-    "poolCount": 12,
-    "poolTvlUsd": 21440518
-  },
-  {
-    "chain": "Fraxtal",
-    "protocolTvlUsd": 40082681.58591426,
-    "protocolCount": 28,
-    "poolCount": 63,
-    "poolTvlUsd": 23859108
+    "poolTvlUsd": 27538676
   },
   {
     "chain": "zkSync Era",
-    "protocolTvlUsd": 37831540.51823668,
-    "protocolCount": 135,
+    "protocolTvlUsd": 38573367.56210885,
+    "protocolCount": 136,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Unichain",
-    "protocolTvlUsd": 35568141.97986855,
-    "protocolCount": 57,
+    "protocolTvlUsd": 35700125.96689776,
+    "protocolCount": 58,
     "poolCount": 9,
-    "poolTvlUsd": 2908290
+    "poolTvlUsd": 2890450
   },
   {
     "chain": "Blast",
-    "protocolTvlUsd": 35196743.24932879,
-    "protocolCount": 146,
+    "protocolTvlUsd": 35227340.78477598,
+    "protocolCount": 145,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Move",
-    "protocolTvlUsd": 34954028.88047381,
+    "protocolTvlUsd": 34986527.74724577,
     "protocolCount": 16,
     "poolCount": 18,
-    "poolTvlUsd": 3034551
+    "poolTvlUsd": 3036088
   },
   {
     "chain": "Polkadot",
-    "protocolTvlUsd": 34851245.64561003,
+    "protocolTvlUsd": 34275867.83707772,
     "protocolCount": 12,
     "poolCount": 29,
-    "poolTvlUsd": 41137686
+    "poolTvlUsd": 41699884
+  },
+  {
+    "chain": "Kava",
+    "protocolTvlUsd": 33768406.34884953,
+    "protocolCount": 133,
+    "poolCount": 12,
+    "poolTvlUsd": 21426580
+  },
+  {
+    "chain": "Fraxtal",
+    "protocolTvlUsd": 33584540.958544195,
+    "protocolCount": 27,
+    "poolCount": 63,
+    "poolTvlUsd": 23868200
   },
   {
     "chain": "Manta",
-    "protocolTvlUsd": 33078621.682642825,
+    "protocolTvlUsd": 33032146.244063217,
     "protocolCount": 64,
     "poolCount": 2,
-    "poolTvlUsd": 96009
-  },
-  {
-    "chain": "Kaspa",
-    "protocolTvlUsd": 32025547.873332404,
-    "protocolCount": 1,
-    "poolCount": 0,
-    "poolTvlUsd": 0
+    "poolTvlUsd": 98930
   },
   {
     "chain": "BOT Chain",
-    "protocolTvlUsd": 32001851.668398514,
+    "protocolTvlUsd": 31922165.804956496,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "RISE",
-    "protocolTvlUsd": 31530334.913262803,
+    "protocolTvlUsd": 31791151.72836533,
     "protocolCount": 6,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "Kaspa",
+    "protocolTvlUsd": 31169728.275222912,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "Pi Network",
-    "protocolTvlUsd": 29580709.158827674,
+    "protocolTvlUsd": 29234251.70456278,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Mixin",
-    "protocolTvlUsd": 29081501.682488944,
+    "protocolTvlUsd": 28990395.716598805,
     "protocolCount": 9,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Injective",
-    "protocolTvlUsd": 28880999.566837262,
+    "protocolTvlUsd": 28377540.744260073,
     "protocolCount": 31,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Etherlink",
-    "protocolTvlUsd": 28304413.596357636,
+    "protocolTvlUsd": 28174913.582787175,
     "protocolCount": 16,
     "poolCount": 5,
-    "poolTvlUsd": 7895475
+    "poolTvlUsd": 7895855
   },
   {
     "chain": "ICP",
-    "protocolTvlUsd": 27266424.79134692,
+    "protocolTvlUsd": 26528482.067888264,
     "protocolCount": 14,
     "poolCount": 50,
-    "poolTvlUsd": 16189693
-  },
-  {
-    "chain": "Astar",
-    "protocolTvlUsd": 26407914.82709568,
-    "protocolCount": 44,
-    "poolCount": 1,
-    "poolTvlUsd": 519241
+    "poolTvlUsd": 15746685
   },
   {
     "chain": "Citrea",
-    "protocolTvlUsd": 26249328.520165067,
+    "protocolTvlUsd": 26415223.5122294,
     "protocolCount": 12,
     "poolCount": 2,
-    "poolTvlUsd": 6791852
+    "poolTvlUsd": 6782574
+  },
+  {
+    "chain": "Astar",
+    "protocolTvlUsd": 26384346.205113064,
+    "protocolCount": 44,
+    "poolCount": 1,
+    "poolTvlUsd": 514980
   },
   {
     "chain": "XION",
-    "protocolTvlUsd": 25457220.78328241,
+    "protocolTvlUsd": 24601715.421343945,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Flow",
-    "protocolTvlUsd": 24173982.75023086,
+    "protocolTvlUsd": 23586575.973595534,
     "protocolCount": 19,
     "poolCount": 7,
-    "poolTvlUsd": 11057416
+    "poolTvlUsd": 10732476
   },
   {
     "chain": "Tezos",
-    "protocolTvlUsd": 23391136.857460745,
+    "protocolTvlUsd": 23421121.30386929,
     "protocolCount": 22,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Bifrost Network",
-    "protocolTvlUsd": 23026054.23688017,
+    "protocolTvlUsd": 22691455.107185528,
     "protocolCount": 5,
     "poolCount": 8,
-    "poolTvlUsd": 11927597
+    "poolTvlUsd": 12089750
   },
   {
     "chain": "WEMIX",
-    "protocolTvlUsd": 22392237.468605656,
+    "protocolTvlUsd": 22277263.95449495,
     "protocolCount": 11,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Abstract",
-    "protocolTvlUsd": 22079445.434089724,
+    "protocolTvlUsd": 21502043.378617145,
     "protocolCount": 24,
     "poolCount": 1,
-    "poolTvlUsd": 41392
-  },
-  {
-    "chain": "MegaETH",
-    "protocolTvlUsd": 21298753.882697586,
-    "protocolCount": 47,
-    "poolCount": 9,
-    "poolTvlUsd": 12387608
+    "poolTvlUsd": 43351
   },
   {
     "chain": "Celo",
-    "protocolTvlUsd": 20969584.923165616,
+    "protocolTvlUsd": 21396688.97290665,
     "protocolCount": 72,
-    "poolCount": 26,
-    "poolTvlUsd": 7334942
+    "poolCount": 55,
+    "poolTvlUsd": 10015783
+  },
+  {
+    "chain": "Qubic",
+    "protocolTvlUsd": 21319523.519394338,
+    "protocolCount": 2,
+    "poolCount": 0,
+    "poolTvlUsd": 0
   },
   {
     "chain": "Fluent",
-    "protocolTvlUsd": 20918238.66871015,
+    "protocolTvlUsd": 20920941.42908611,
     "protocolCount": 5,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Elrond",
-    "protocolTvlUsd": 20876641.96780911,
+    "protocolTvlUsd": 20802441.33654915,
     "protocolCount": 26,
     "poolCount": 10,
-    "poolTvlUsd": 920679
+    "poolTvlUsd": 917207
   },
   {
     "chain": "Ronin",
-    "protocolTvlUsd": 20312506.07428466,
-    "protocolCount": 10,
+    "protocolTvlUsd": 20101443.621081803,
+    "protocolCount": 9,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Qubic",
-    "protocolTvlUsd": 19959526.688635223,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
+    "chain": "MegaETH",
+    "protocolTvlUsd": 18075469.82416441,
+    "protocolCount": 47,
+    "poolCount": 9,
+    "poolTvlUsd": 12346014
   },
   {
     "chain": "Immutable zkEVM",
-    "protocolTvlUsd": 17478575.611072723,
+    "protocolTvlUsd": 17492853.142949067,
     "protocolCount": 4,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "0G",
-    "protocolTvlUsd": 17412205.773198567,
-    "protocolCount": 12,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Chainflip",
-    "protocolTvlUsd": 17282727.88409494,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "XDC",
-    "protocolTvlUsd": 16545560.366270507,
+    "protocolTvlUsd": 17277554.387022547,
     "protocolCount": 26,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Strato",
-    "protocolTvlUsd": 16253009.49966937,
-    "protocolCount": 3,
-    "poolCount": 2,
-    "poolTvlUsd": 2564047
+    "chain": "Chainflip",
+    "protocolTvlUsd": 16520165.906144489,
+    "protocolCount": 2,
+    "poolCount": 0,
+    "poolTvlUsd": 0
   },
   {
-    "chain": "Bifrost",
-    "protocolTvlUsd": 16027727.27413121,
+    "chain": "Strato",
+    "protocolTvlUsd": 16195537.906583715,
     "protocolCount": 3,
-    "poolCount": 1,
-    "poolTvlUsd": 198312
+    "poolCount": 2,
+    "poolTvlUsd": 2563075
+  },
+  {
+    "chain": "0G",
+    "protocolTvlUsd": 16044939.009260392,
+    "protocolCount": 12,
+    "poolCount": 0,
+    "poolTvlUsd": 0
   },
   {
     "chain": "Conflux",
-    "protocolTvlUsd": 15983087.896176074,
+    "protocolTvlUsd": 15669081.851168443,
     "protocolCount": 15,
     "poolCount": 1,
-    "poolTvlUsd": 263134
+    "poolTvlUsd": 253446
+  },
+  {
+    "chain": "Bifrost",
+    "protocolTvlUsd": 15659636.549619384,
+    "protocolCount": 3,
+    "poolCount": 1,
+    "poolTvlUsd": 198334
   },
   {
     "chain": "Rollux",
-    "protocolTvlUsd": 14161950.63265873,
+    "protocolTvlUsd": 14195283.595210169,
     "protocolCount": 5,
     "poolCount": 1,
     "poolTvlUsd": 23978
   },
   {
     "chain": "Waves",
-    "protocolTvlUsd": 13166040.343666453,
+    "protocolTvlUsd": 13213467.402481511,
     "protocolCount": 11,
     "poolCount": 3,
-    "poolTvlUsd": 393764
+    "poolTvlUsd": 426952
   },
   {
     "chain": "Osmosis",
-    "protocolTvlUsd": 12707563.52064548,
+    "protocolTvlUsd": 12716040.501609774,
     "protocolCount": 18,
-    "poolCount": 100,
-    "poolTvlUsd": 10246105
+    "poolCount": 99,
+    "poolTvlUsd": 10184249
   },
   {
     "chain": "AFX L1",
@@ -798,79 +812,58 @@
     "poolTvlUsd": 0
   },
   {
-    "chain": "Canton",
-    "protocolTvlUsd": 11552269.222956723,
-    "protocolCount": 5,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Somnia",
-    "protocolTvlUsd": 11022008.039423876,
+    "protocolTvlUsd": 10862512.76731575,
     "protocolCount": 15,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Scroll",
-    "protocolTvlUsd": 10646092.479438812,
-    "protocolCount": 127,
+    "protocolTvlUsd": 10681858.952617183,
+    "protocolCount": 128,
     "poolCount": 5,
-    "poolTvlUsd": 628131
+    "poolTvlUsd": 630665
   },
   {
     "chain": "Endurance",
-    "protocolTvlUsd": 9466019.361864941,
+    "protocolTvlUsd": 9859735.166588427,
     "protocolCount": 4,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Fantom",
-    "protocolTvlUsd": 9086775.542670887,
-    "protocolCount": 334,
-    "poolCount": 11,
-    "poolTvlUsd": 4707585
-  },
-  {
-    "chain": "Gensyn",
-    "protocolTvlUsd": 9029812.86073407,
-    "protocolCount": 1,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Zircuit",
-    "protocolTvlUsd": 8984642.899422657,
+    "protocolTvlUsd": 9040524.13376598,
     "protocolCount": 18,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Silicon zkEVM",
-    "protocolTvlUsd": 8948891.584448757,
+    "protocolTvlUsd": 8957385.267188111,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Aurora",
-    "protocolTvlUsd": 8582628.46579139,
-    "protocolCount": 54,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "GravityBridge",
-    "protocolTvlUsd": 8581073.604202,
+    "chain": "Gensyn",
+    "protocolTvlUsd": 8947880.777120136,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Bitcoincash",
-    "protocolTvlUsd": 8506953.491923662,
+    "protocolTvlUsd": 8485756.718850678,
     "protocolCount": 5,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Aurora",
+    "protocolTvlUsd": 8353543.372698689,
+    "protocolCount": 55,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -883,134 +876,134 @@
   },
   {
     "chain": "VeChain",
-    "protocolTvlUsd": 8283913.319344467,
+    "protocolTvlUsd": 8127048.007026995,
     "protocolCount": 8,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "GravityBridge",
+    "protocolTvlUsd": 8116823.154613084,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "Reya Network",
-    "protocolTvlUsd": 8063182.673581519,
+    "protocolTvlUsd": 8063176.516152677,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Peaq",
-    "protocolTvlUsd": 7814018.92194583,
-    "protocolCount": 4,
+    "chain": "Canton",
+    "protocolTvlUsd": 7967844.625664012,
+    "protocolCount": 5,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Venom",
-    "protocolTvlUsd": 7739691.37550055,
+    "protocolTvlUsd": 7729945.552598778,
     "protocolCount": 3,
     "poolCount": 6,
     "poolTvlUsd": 7634560
   },
   {
-    "chain": "BOB",
-    "protocolTvlUsd": 7533534.768603085,
-    "protocolCount": 29,
+    "chain": "Peaq",
+    "protocolTvlUsd": 7708078.635812337,
+    "protocolCount": 4,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "NEO",
-    "protocolTvlUsd": 6802535.327806805,
+    "protocolTvlUsd": 6782399.234659779,
     "protocolCount": 7,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Terra2",
-    "protocolTvlUsd": 6465103.385110562,
+    "protocolTvlUsd": 6388142.914917145,
     "protocolCount": 16,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Soneium",
-    "protocolTvlUsd": 6270444.430128742,
-    "protocolCount": 27,
-    "poolCount": 1,
-    "poolTvlUsd": 20342
-  },
-  {
     "chain": "IOTA",
-    "protocolTvlUsd": 6131246.313555439,
+    "protocolTvlUsd": 6370805.356212714,
     "protocolCount": 5,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "IoTeX",
-    "protocolTvlUsd": 5933022.360733183,
+    "protocolTvlUsd": 5928660.871033477,
     "protocolCount": 33,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Acala",
-    "protocolTvlUsd": 5893084.198320642,
+    "protocolTvlUsd": 5738783.61909029,
     "protocolCount": 7,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Bitkub",
-    "protocolTvlUsd": 5603332.01002756,
+    "protocolTvlUsd": 5656949.192316576,
     "protocolCount": 14,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Kucoin",
-    "protocolTvlUsd": 5548616.610791029,
+    "protocolTvlUsd": 5446998.163597631,
     "protocolCount": 27,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "CORE",
-    "protocolTvlUsd": 5474224.871897544,
+    "protocolTvlUsd": 5380449.218554127,
     "protocolCount": 66,
     "poolCount": 5,
-    "poolTvlUsd": 2205344
+    "poolTvlUsd": 2168530
   },
   {
     "chain": "Initia",
-    "protocolTvlUsd": 5390401.716851829,
+    "protocolTvlUsd": 5272760.162977967,
     "protocolCount": 5,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Op_Bnb",
-    "protocolTvlUsd": 5239345.857055807,
+    "protocolTvlUsd": 5246119.48125347,
     "protocolCount": 43,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Fuel",
-    "protocolTvlUsd": 5221792.194808841,
+    "protocolTvlUsd": 5242856.701913657,
     "protocolCount": 11,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Ontology",
-    "protocolTvlUsd": 5185282.7760069985,
-    "protocolCount": 3,
-    "poolCount": 0,
-    "poolTvlUsd": 0
+    "chain": "Soneium",
+    "protocolTvlUsd": 5225627.411564747,
+    "protocolCount": 26,
+    "poolCount": 1,
+    "poolTvlUsd": 20373
   },
   {
-    "chain": "EthereumClassic",
-    "protocolTvlUsd": 5137248.679777134,
-    "protocolCount": 16,
+    "chain": "Ontology",
+    "protocolTvlUsd": 5203787.386001,
+    "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -1022,65 +1015,65 @@
     "poolTvlUsd": 0
   },
   {
-    "chain": "Cosmos",
-    "protocolTvlUsd": 5038158.968343075,
-    "protocolCount": 11,
+    "chain": "EthereumClassic",
+    "protocolTvlUsd": 4973634.384046228,
+    "protocolCount": 16,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Supra",
-    "protocolTvlUsd": 4483754.425896455,
+    "protocolTvlUsd": 4619783.806515488,
     "protocolCount": 10,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Cronos zkEVM",
-    "protocolTvlUsd": 4249222.063700537,
-    "protocolCount": 12,
-    "poolCount": 7,
-    "poolTvlUsd": 347023
-  },
-  {
-    "chain": "Metis",
-    "protocolTvlUsd": 3698580.76905304,
-    "protocolCount": 59,
-    "poolCount": 7,
-    "poolTvlUsd": 268041
+    "chain": "Cosmos",
+    "protocolTvlUsd": 4607050.046832598,
+    "protocolCount": 11,
+    "poolCount": 0,
+    "poolTvlUsd": 0
   },
   {
     "chain": "Gala",
-    "protocolTvlUsd": 3639050.8130239956,
+    "protocolTvlUsd": 4418135.593721074,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "Cronos zkEVM",
+    "protocolTvlUsd": 4267046.02074457,
+    "protocolCount": 12,
+    "poolCount": 7,
+    "poolTvlUsd": 352509
+  },
+  {
+    "chain": "Metis",
+    "protocolTvlUsd": 3602687.3372675222,
+    "protocolCount": 59,
+    "poolCount": 9,
+    "poolTvlUsd": 307979
+  },
+  {
     "chain": "Mode",
-    "protocolTvlUsd": 3579832.7907622326,
-    "protocolCount": 70,
+    "protocolTvlUsd": 3600635.278305961,
+    "protocolCount": 69,
     "poolCount": 1,
-    "poolTvlUsd": 12801
+    "poolTvlUsd": 12821
   },
   {
     "chain": "Bittensor EVM",
-    "protocolTvlUsd": 3433685.86676872,
+    "protocolTvlUsd": 3450373.944070205,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Story",
-    "protocolTvlUsd": 3387018.6407214655,
+    "protocolTvlUsd": 3332270.437446308,
     "protocolCount": 12,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Verus",
-    "protocolTvlUsd": 3208330.464602651,
-    "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -1092,128 +1085,128 @@
     "poolTvlUsd": 0
   },
   {
+    "chain": "Verus",
+    "protocolTvlUsd": 3114579.838945356,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "Movement",
-    "protocolTvlUsd": 3041241.88523691,
+    "protocolTvlUsd": 3064052.24935436,
     "protocolCount": 8,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Sophon",
-    "protocolTvlUsd": 2911480.3541224385,
+    "protocolTvlUsd": 2849031.6103415117,
     "protocolCount": 6,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Wanchain",
-    "protocolTvlUsd": 2632578.7657959694,
+    "protocolTvlUsd": 2708927.5061281305,
     "protocolCount": 9,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "Telos",
+    "protocolTvlUsd": 2663357.391042164,
+    "protocolCount": 38,
+    "poolCount": 1,
+    "poolTvlUsd": 35961
+  },
+  {
     "chain": "Bitlayer",
-    "protocolTvlUsd": 2624083.0198047534,
+    "protocolTvlUsd": 2617740.191491557,
     "protocolCount": 29,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Telos",
-    "protocolTvlUsd": 2581398.8311475324,
-    "protocolCount": 38,
-    "poolCount": 1,
-    "poolTvlUsd": 35959
-  },
-  {
-    "chain": "Aleo",
-    "protocolTvlUsd": 2515236.4084293265,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Stratis",
-    "protocolTvlUsd": 2512687.570233358,
+    "protocolTvlUsd": 2530806.537474855,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "Karura",
+    "protocolTvlUsd": 2299851.666604137,
+    "protocolCount": 5,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "Boba",
-    "protocolTvlUsd": 2156111.550986492,
-    "protocolCount": 28,
+    "protocolTvlUsd": 2153482.4328856054,
+    "protocolCount": 27,
     "poolCount": 1,
-    "poolTvlUsd": 104641
+    "poolTvlUsd": 104647
   },
   {
     "chain": "Ergo",
-    "protocolTvlUsd": 2102628.04807622,
+    "protocolTvlUsd": 2014852.4573033757,
     "protocolCount": 11,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Ethereal",
-    "protocolTvlUsd": 1989431.8754664576,
+    "protocolTvlUsd": 1977377.6862190503,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Fogo",
-    "protocolTvlUsd": 1907947.9893045973,
+    "protocolTvlUsd": 1915573.5593870326,
     "protocolCount": 5,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Dexalot",
-    "protocolTvlUsd": 1824235.0535856562,
+    "protocolTvlUsd": 1834234.4968010304,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Strat",
-    "protocolTvlUsd": 1703490.3885648944,
+    "protocolTvlUsd": 1705179.9680902313,
+    "protocolCount": 2,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "ADI",
+    "protocolTvlUsd": 1571008.9202025805,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "OKExChain",
-    "protocolTvlUsd": 1626338.2128770214,
+    "protocolTvlUsd": 1552986.5831193735,
     "protocolCount": 33,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "ADI",
-    "protocolTvlUsd": 1536098.6468162953,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Alephium",
-    "protocolTvlUsd": 1372281.0219495355,
+    "protocolTvlUsd": 1521931.9467181033,
     "protocolCount": 10,
     "poolCount": 1,
-    "poolTvlUsd": 2318
+    "poolTvlUsd": 482
   },
   {
-    "chain": "Igra",
-    "protocolTvlUsd": 1330852.887760061,
-    "protocolCount": 6,
-    "poolCount": 4,
-    "poolTvlUsd": 202857
-  },
-  {
-    "chain": "Fuse",
-    "protocolTvlUsd": 1275171.2261127136,
-    "protocolCount": 25,
+    "chain": "Aleo",
+    "protocolTvlUsd": 1503235.3826246432,
+    "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -1225,23 +1218,37 @@
     "poolTvlUsd": 0
   },
   {
+    "chain": "Igra",
+    "protocolTvlUsd": 1267555.6398225436,
+    "protocolCount": 6,
+    "poolCount": 4,
+    "poolTvlUsd": 198450
+  },
+  {
+    "chain": "Fuse",
+    "protocolTvlUsd": 1234766.221503043,
+    "protocolCount": 25,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "DefiChain",
+    "protocolTvlUsd": 1227090.9770160113,
+    "protocolCount": 3,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "Map",
-    "protocolTvlUsd": 1185787.4434843776,
+    "protocolTvlUsd": 1186323.778879818,
     "protocolCount": 8,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "ENI",
-    "protocolTvlUsd": 1160378.1518104682,
+    "protocolTvlUsd": 1151344.9502540324,
     "protocolCount": 3,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Terra",
-    "protocolTvlUsd": 1152366.72577321,
-    "protocolCount": 36,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -1253,92 +1260,85 @@
     "poolTvlUsd": 0
   },
   {
-    "chain": "DefiChain",
-    "protocolTvlUsd": 1101514.3133359912,
-    "protocolCount": 3,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Cyber",
-    "protocolTvlUsd": 1085829.2678529038,
-    "protocolCount": 3,
+    "chain": "Terra",
+    "protocolTvlUsd": 1129410.8523022318,
+    "protocolCount": 36,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Beam",
-    "protocolTvlUsd": 1085774.0693438107,
+    "protocolTvlUsd": 1080026.1122227034,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Icon",
-    "protocolTvlUsd": 955172.5620496225,
-    "protocolCount": 6,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Doma",
-    "protocolTvlUsd": 855053.2145738695,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Prom",
-    "protocolTvlUsd": 837493.976101602,
-    "protocolCount": 2,
+    "chain": "Cyber",
+    "protocolTvlUsd": 1045946.8558010944,
+    "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Xphere",
-    "protocolTvlUsd": 832339.3171290932,
+    "protocolTvlUsd": 977931.6763583741,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "LUKSO",
-    "protocolTvlUsd": 823136.3312092318,
+    "protocolTvlUsd": 955505.3176694964,
     "protocolCount": 6,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Karura",
-    "protocolTvlUsd": 819447.4365584066,
-    "protocolCount": 5,
+    "chain": "Icon",
+    "protocolTvlUsd": 953605.1732476635,
+    "protocolCount": 6,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Doma",
+    "protocolTvlUsd": 858692.2658060002,
+    "protocolCount": 2,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Prom",
+    "protocolTvlUsd": 851995.0689238084,
+    "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "K2",
-    "protocolTvlUsd": 782303.4395257557,
+    "protocolTvlUsd": 782302.5850493072,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Sapphire",
-    "protocolTvlUsd": 742328.1285024164,
+    "protocolTvlUsd": 709820.1523614587,
     "protocolCount": 8,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Obyte",
-    "protocolTvlUsd": 706598.9058056425,
+    "protocolTvlUsd": 706719.7781818676,
     "protocolCount": 9,
     "poolCount": 2,
-    "poolTvlUsd": 29906
+    "poolTvlUsd": 29920
   },
   {
     "chain": "IOTA EVM",
-    "protocolTvlUsd": 676020.6816845603,
+    "protocolTvlUsd": 694622.6253133495,
     "protocolCount": 10,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -1352,15 +1352,15 @@
   },
   {
     "chain": "ZetaChain",
-    "protocolTvlUsd": 609236.8347695338,
-    "protocolCount": 27,
+    "protocolTvlUsd": 629049.2259461756,
+    "protocolCount": 26,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Krown Network",
-    "protocolTvlUsd": 602316.2031119195,
-    "protocolCount": 1,
+    "protocolTvlUsd": 598039.730845624,
+    "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -1373,63 +1373,63 @@
   },
   {
     "chain": "ShimmerEVM",
-    "protocolTvlUsd": 575793.8349906568,
+    "protocolTvlUsd": 575820.7624111755,
     "protocolCount": 7,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Dash",
-    "protocolTvlUsd": 573704.8760901248,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Mantra",
-    "protocolTvlUsd": 559479.5237103734,
+    "protocolTvlUsd": 558169.9317423675,
     "protocolCount": 6,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "Dash",
+    "protocolTvlUsd": 544549.3687659724,
+    "protocolCount": 2,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "Zilliqa",
-    "protocolTvlUsd": 512562.1232392385,
+    "protocolTvlUsd": 499856.8609078553,
     "protocolCount": 9,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Echelon Chain",
-    "protocolTvlUsd": 505244.34485354356,
+    "protocolTvlUsd": 496668.56174356554,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Goat",
-    "protocolTvlUsd": 464700.0753465675,
-    "protocolCount": 13,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Orai",
-    "protocolTvlUsd": 452101.55918571877,
+    "protocolTvlUsd": 487244.7857314537,
     "protocolCount": 4,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Wax",
-    "protocolTvlUsd": 445331.7369199887,
-    "protocolCount": 14,
+    "chain": "Goat",
+    "protocolTvlUsd": 467913.6871966387,
+    "protocolCount": 13,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Nibiru",
-    "protocolTvlUsd": 440037.9681078108,
+    "protocolTvlUsd": 467199.2349086275,
+    "protocolCount": 14,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Wax",
+    "protocolTvlUsd": 436947.63416559476,
     "protocolCount": 14,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -1443,36 +1443,50 @@
   },
   {
     "chain": "Arbitrum Nova",
-    "protocolTvlUsd": 409231.88714535604,
+    "protocolTvlUsd": 409261.0018124271,
     "protocolCount": 9,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Theta",
-    "protocolTvlUsd": 376120.02187310904,
+    "protocolTvlUsd": 366634.001050097,
     "protocolCount": 5,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Kasplex",
-    "protocolTvlUsd": 370873.6674683822,
+    "protocolTvlUsd": 365661.66314370546,
     "protocolCount": 6,
     "poolCount": 2,
-    "poolTvlUsd": 35131
+    "poolTvlUsd": 35790
+  },
+  {
+    "chain": "Axiome",
+    "protocolTvlUsd": 356143.8693822292,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
   },
   {
     "chain": "Oasis",
-    "protocolTvlUsd": 355354.58663427376,
+    "protocolTvlUsd": 352385.2627447166,
     "protocolCount": 15,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Shido",
-    "protocolTvlUsd": 352204.21068585187,
-    "protocolCount": 2,
+    "chain": "HAQQ",
+    "protocolTvlUsd": 350931.160785768,
+    "protocolCount": 3,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "EthereumPoW",
+    "protocolTvlUsd": 340318.60220055556,
+    "protocolCount": 18,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -1484,78 +1498,64 @@
     "poolTvlUsd": 7306998
   },
   {
-    "chain": "HAQQ",
-    "protocolTvlUsd": 335302.21045580326,
-    "protocolCount": 3,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Celestia",
-    "protocolTvlUsd": 333426.0535274671,
+    "protocolTvlUsd": 324718.9734489665,
     "protocolCount": 4,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Axiome",
-    "protocolTvlUsd": 328319.7291348559,
-    "protocolCount": 1,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "EthereumPoW",
-    "protocolTvlUsd": 312509.72922384663,
-    "protocolCount": 18,
+    "chain": "Shido",
+    "protocolTvlUsd": 324167.5434250841,
+    "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Radix",
-    "protocolTvlUsd": 305863.4907111467,
+    "protocolTvlUsd": 303610.34158675274,
     "protocolCount": 24,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Union",
-    "protocolTvlUsd": 304631.6146833851,
-    "protocolCount": 1,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Oasys",
-    "protocolTvlUsd": 292858.74619028997,
+    "protocolTvlUsd": 299769.8799448523,
     "protocolCount": 6,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Babylon Genesis",
-    "protocolTvlUsd": 289406.0800346907,
-    "protocolCount": 5,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Inertia",
-    "protocolTvlUsd": 286650.5515637152,
+    "chain": "Union",
+    "protocolTvlUsd": 292888.5124219042,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Electroneum",
-    "protocolTvlUsd": 285707.0128601904,
+    "protocolTvlUsd": 288465.63342496887,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "Inertia",
+    "protocolTvlUsd": 279758.3403741991,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Babylon Genesis",
+    "protocolTvlUsd": 276672.98479710374,
+    "protocolCount": 5,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "HashKey Chain",
-    "protocolTvlUsd": 258750.86764233164,
+    "protocolTvlUsd": 262423.1131239531,
     "protocolCount": 8,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -1576,28 +1576,21 @@
   },
   {
     "chain": "Newton",
-    "protocolTvlUsd": 254056.0400577184,
+    "protocolTvlUsd": 253400.3597157705,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Carbon",
-    "protocolTvlUsd": 250491.92601324222,
+    "protocolTvlUsd": 250036.10693576443,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Hibachi",
-    "protocolTvlUsd": 247249.4968522379,
-    "protocolCount": 1,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Chia",
-    "protocolTvlUsd": 240147.90041178776,
+    "protocolTvlUsd": 246922.64270337715,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -1610,158 +1603,165 @@
     "poolTvlUsd": 0
   },
   {
+    "chain": "Chia",
+    "protocolTvlUsd": 238078.6039929839,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "Shape",
-    "protocolTvlUsd": 233531.3971512982,
+    "protocolTvlUsd": 235231.83741990844,
     "protocolCount": 4,
     "poolCount": 2,
-    "poolTvlUsd": 86096
+    "poolTvlUsd": 86091
   },
   {
     "chain": "Taiko",
-    "protocolTvlUsd": 232027.29674567064,
-    "protocolCount": 38,
+    "protocolTvlUsd": 231275.38954892755,
+    "protocolCount": 39,
     "poolCount": 1,
-    "poolTvlUsd": 21160
+    "poolTvlUsd": 21610
   },
   {
     "chain": "TomoChain",
-    "protocolTvlUsd": 228156.01851439802,
+    "protocolTvlUsd": 216545.21887001916,
     "protocolCount": 7,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Coti",
-    "protocolTvlUsd": 218799.5877782785,
+    "protocolTvlUsd": 215877.09250247048,
     "protocolCount": 6,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "Elastos",
+    "protocolTvlUsd": 211364.6908206199,
+    "protocolCount": 3,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "Quai",
-    "protocolTvlUsd": 212284.65699477124,
+    "protocolTvlUsd": 204919.65719259568,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Meter",
-    "protocolTvlUsd": 202421.15780802397,
+    "protocolTvlUsd": 201980.63246723366,
     "protocolCount": 11,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Vana",
-    "protocolTvlUsd": 200600.198723831,
+    "protocolTvlUsd": 200599.60341606144,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Europa",
-    "protocolTvlUsd": 198559.38851144366,
+    "protocolTvlUsd": 197845.5180067021,
     "protocolCount": 5,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Elastos",
-    "protocolTvlUsd": 197945.01746578014,
-    "protocolCount": 3,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Velas",
-    "protocolTvlUsd": 187540.7629708548,
+    "protocolTvlUsd": 187704.16923954713,
     "protocolCount": 13,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "MultiVAC",
-    "protocolTvlUsd": 178689.82792359957,
+    "protocolTvlUsd": 178700.59142502164,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Bittorrent",
-    "protocolTvlUsd": 162663.94335839603,
+    "protocolTvlUsd": 160120.1793737869,
     "protocolCount": 14,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "W Chain",
-    "protocolTvlUsd": 158267.84682131637,
-    "protocolCount": 1,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Yominet",
-    "protocolTvlUsd": 157522.53281612552,
+    "protocolTvlUsd": 160095.32394068132,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "TAC",
-    "protocolTvlUsd": 155807.7955939217,
+    "protocolTvlUsd": 155763.6924793663,
     "protocolCount": 13,
     "poolCount": 1,
-    "poolTvlUsd": 640768
+    "poolTvlUsd": 638223
   },
   {
-    "chain": "Cabal",
-    "protocolTvlUsd": 152245.6169077171,
-    "protocolCount": 1,
+    "chain": "BCHyper",
+    "protocolTvlUsd": 152418.6334815427,
+    "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Songbird",
-    "protocolTvlUsd": 151634.69986328194,
+    "protocolTvlUsd": 152300.13260584784,
     "protocolCount": 8,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "BCHyper",
-    "protocolTvlUsd": 151522.8998220255,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Asset Chain",
-    "protocolTvlUsd": 147402.11133740222,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Shibarium",
-    "protocolTvlUsd": 143112.9639134732,
-    "protocolCount": 19,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "XPLA",
-    "protocolTvlUsd": 138244.9920410655,
+    "chain": "Cabal",
+    "protocolTvlUsd": 152284.71784513586,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "Asset Chain",
+    "protocolTvlUsd": 147796.58982264125,
+    "protocolCount": 2,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "W Chain",
+    "protocolTvlUsd": 147123.93379941184,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Shibarium",
+    "protocolTvlUsd": 140349.7301569409,
+    "protocolCount": 19,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "Voi Network",
-    "protocolTvlUsd": 137134.4820844891,
+    "protocolTvlUsd": 137783.1069101333,
     "protocolCount": 2,
     "poolCount": 3,
-    "poolTvlUsd": 85617
+    "poolTvlUsd": 86044
+  },
+  {
+    "chain": "XPLA",
+    "protocolTvlUsd": 132244.8771555975,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
   },
   {
     "chain": "CSC",
@@ -1771,44 +1771,58 @@
     "poolTvlUsd": 0
   },
   {
-    "chain": "BESC Hyperchain",
-    "protocolTvlUsd": 130182.31793583413,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Lisk",
-    "protocolTvlUsd": 129067.33133719146,
+    "protocolTvlUsd": 129020.94214605147,
     "protocolCount": 7,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Archway",
-    "protocolTvlUsd": 118945.495879972,
+    "protocolTvlUsd": 119094.86671992177,
     "protocolCount": 6,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "BandChain",
-    "protocolTvlUsd": 113470.5267913875,
-    "protocolCount": 1,
+    "chain": "BESC Hyperchain",
+    "protocolTvlUsd": 115229.3409505777,
+    "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Naka",
-    "protocolTvlUsd": 112112.24269272067,
+    "protocolTvlUsd": 111893.075934694,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "BandChain",
+    "protocolTvlUsd": 109914.43528566317,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Persistence",
-    "protocolTvlUsd": 102272.43363376429,
+    "protocolTvlUsd": 103043.97478003934,
     "protocolCount": 3,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Nolus",
+    "protocolTvlUsd": 101593.32031198054,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Agoric",
+    "protocolTvlUsd": 100341.50603925367,
+    "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -1820,30 +1834,23 @@
     "poolTvlUsd": 0
   },
   {
-    "chain": "Agoric",
-    "protocolTvlUsd": 99453.39704727981,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Nolus",
-    "protocolTvlUsd": 97338.7648943346,
-    "protocolCount": 1,
+    "chain": "DeFiChain EVM",
+    "protocolTvlUsd": 86894.43139007193,
+    "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Zkfair",
-    "protocolTvlUsd": 85632.06772464351,
+    "protocolTvlUsd": 85641.91930463345,
     "protocolCount": 11,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Chromia",
-    "protocolTvlUsd": 78849.91849427298,
-    "protocolCount": 3,
+    "chain": "zkLink",
+    "protocolTvlUsd": 78273.32379246675,
+    "protocolCount": 19,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -1855,22 +1862,22 @@
     "poolTvlUsd": 519889
   },
   {
-    "chain": "zkLink",
-    "protocolTvlUsd": 77844.75077932571,
-    "protocolCount": 19,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Pepu",
-    "protocolTvlUsd": 73250.26536056427,
+    "chain": "EnergyWeb",
+    "protocolTvlUsd": 77408.57935385643,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "EnergyWeb",
-    "protocolTvlUsd": 72054.95868277043,
+    "chain": "Chromia",
+    "protocolTvlUsd": 77008.3517841345,
+    "protocolCount": 3,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Pepu",
+    "protocolTvlUsd": 72976.83332773602,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -1884,7 +1891,7 @@
   },
   {
     "chain": "Dungeon",
-    "protocolTvlUsd": 68401.86050801897,
+    "protocolTvlUsd": 68450.63880100117,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -1898,7 +1905,7 @@
   },
   {
     "chain": "RENEC",
-    "protocolTvlUsd": 66051.24028010642,
+    "protocolTvlUsd": 66043.90883115664,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -1912,15 +1919,8 @@
   },
   {
     "chain": "Juno",
-    "protocolTvlUsd": 57490.33601483063,
+    "protocolTvlUsd": 59224.44783323388,
     "protocolCount": 9,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Civitia",
-    "protocolTvlUsd": 55642.241989468945,
-    "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -1932,36 +1932,36 @@
     "poolTvlUsd": 0
   },
   {
-    "chain": "Ultron",
-    "protocolTvlUsd": 53512.88426685149,
-    "protocolCount": 3,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Keeta",
-    "protocolTvlUsd": 52735.162578178075,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Regen",
-    "protocolTvlUsd": 51100.618465876185,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "OpenGPU",
-    "protocolTvlUsd": 49820.51981914343,
+    "chain": "Civitia",
+    "protocolTvlUsd": 54447.376625575955,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Dymension",
-    "protocolTvlUsd": 47928.83135542816,
+    "chain": "Ultron",
+    "protocolTvlUsd": 53256.69044346605,
+    "protocolCount": 3,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "OpenGPU",
+    "protocolTvlUsd": 51054.087192575214,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Regen",
+    "protocolTvlUsd": 50833.932608806244,
+    "protocolCount": 2,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Keeta",
+    "protocolTvlUsd": 50232.22204092062,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -1975,77 +1975,77 @@
   },
   {
     "chain": "Zora",
-    "protocolTvlUsd": 46634.06682270675,
+    "protocolTvlUsd": 46854.114958374674,
     "protocolCount": 8,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Energi",
-    "protocolTvlUsd": 45760.78599736765,
+    "protocolTvlUsd": 46507.24573658492,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "LightLink",
-    "protocolTvlUsd": 45270.3952844836,
-    "protocolCount": 5,
+    "protocolTvlUsd": 45215.2317907768,
+    "protocolCount": 6,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "LaChain Network",
-    "protocolTvlUsd": 45081.15857319397,
+    "protocolTvlUsd": 45075.046248334096,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Chihuahua",
-    "protocolTvlUsd": 44080.785022811586,
+    "protocolTvlUsd": 44202.35454157399,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "smartBCH",
-    "protocolTvlUsd": 43674.54281199094,
+    "protocolTvlUsd": 43660.80738791029,
     "protocolCount": 23,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "Dymension",
+    "protocolTvlUsd": 41975.63900661073,
+    "protocolCount": 2,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "Eclipse",
-    "protocolTvlUsd": 39972.9226336519,
+    "protocolTvlUsd": 39918.11202098017,
     "protocolCount": 11,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "XRPL EVM",
-    "protocolTvlUsd": 34618.05615601021,
+    "protocolTvlUsd": 34554.0364475425,
     "protocolCount": 6,
     "poolCount": 1,
-    "poolTvlUsd": 951121
+    "poolTvlUsd": 934249
   },
   {
     "chain": "Areon Network",
-    "protocolTvlUsd": 30663.22703177464,
+    "protocolTvlUsd": 31329.290945329154,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "DeFiChain EVM",
-    "protocolTvlUsd": 29507.488918043553,
-    "protocolCount": 3,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Vara",
-    "protocolTvlUsd": 27387.84383012662,
+    "protocolTvlUsd": 26909.42389754701,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -2058,13 +2058,6 @@
     "poolTvlUsd": 0
   },
   {
-    "chain": "Massa",
-    "protocolTvlUsd": 25664.91309891564,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "ThunderCore",
     "protocolTvlUsd": 25524.223386218713,
     "protocolCount": 5,
@@ -2072,22 +2065,29 @@
     "poolTvlUsd": 0
   },
   {
+    "chain": "Hydra Chain",
+    "protocolTvlUsd": 23749.409568730658,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "Superseed",
-    "protocolTvlUsd": 23460.27424747739,
-    "protocolCount": 7,
+    "protocolTvlUsd": 23535.484523553332,
+    "protocolCount": 6,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Matchain",
-    "protocolTvlUsd": 23151.084741831204,
+    "protocolTvlUsd": 23170.359269296205,
     "protocolCount": 6,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "svmBNB",
-    "protocolTvlUsd": 20878.034580349733,
+    "protocolTvlUsd": 20854.81523260816,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -2108,7 +2108,7 @@
   },
   {
     "chain": "Redbelly",
-    "protocolTvlUsd": 19185.291606654515,
+    "protocolTvlUsd": 18956.729181738752,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -2118,7 +2118,14 @@
     "protocolTvlUsd": 18484.603855181074,
     "protocolCount": 21,
     "poolCount": 10,
-    "poolTvlUsd": 5397211
+    "poolTvlUsd": 5395679
+  },
+  {
+    "chain": "Massa",
+    "protocolTvlUsd": 18435.300194205265,
+    "protocolCount": 2,
+    "poolCount": 0,
+    "poolTvlUsd": 0
   },
   {
     "chain": "Sora",
@@ -2129,14 +2136,14 @@
   },
   {
     "chain": "Pokt",
-    "protocolTvlUsd": 17578.168580397112,
+    "protocolTvlUsd": 17525.533456074016,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "aelf",
-    "protocolTvlUsd": 16632.571992567486,
+    "protocolTvlUsd": 16635.088398707485,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -2150,14 +2157,14 @@
   },
   {
     "chain": "VirBiCoin",
-    "protocolTvlUsd": 16334.093849917463,
+    "protocolTvlUsd": 16335.22371854763,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "GANchain",
-    "protocolTvlUsd": 15926.703481282804,
+    "protocolTvlUsd": 16022.372190192595,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -2171,42 +2178,42 @@
   },
   {
     "chain": "QIE",
-    "protocolTvlUsd": 15319.295196855623,
+    "protocolTvlUsd": 15333.996180011483,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "CookieChain",
-    "protocolTvlUsd": 14334.337074334298,
+    "protocolTvlUsd": 14727.756997603243,
     "protocolCount": 6,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Neon",
-    "protocolTvlUsd": 14289.525603437025,
+    "protocolTvlUsd": 13853.39841799902,
     "protocolCount": 9,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Aura Network",
-    "protocolTvlUsd": 13458.056353332635,
+    "protocolTvlUsd": 13484.114940852627,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "HeLa",
-    "protocolTvlUsd": 12542.829333775167,
+    "protocolTvlUsd": 12543.630480391781,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Q Protocol",
-    "protocolTvlUsd": 11904.000054607603,
+    "protocolTvlUsd": 11862.16755661766,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -2220,7 +2227,7 @@
   },
   {
     "chain": "Libre",
-    "protocolTvlUsd": 9620.380430218682,
+    "protocolTvlUsd": 9621.332318761335,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -2234,63 +2241,70 @@
   },
   {
     "chain": "GoChain",
-    "protocolTvlUsd": 8747.756560828879,
+    "protocolTvlUsd": 8785.899860938753,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Xai",
-    "protocolTvlUsd": 8668.98370684439,
+    "protocolTvlUsd": 8647.81345952125,
     "protocolCount": 3,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "Rayls",
+    "protocolTvlUsd": 7225.134558855774,
+    "protocolCount": 2,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "Neo X Mainnet",
-    "protocolTvlUsd": 4940.294316565345,
+    "protocolTvlUsd": 4837.685212838259,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "VinuChain",
-    "protocolTvlUsd": 4779.445709599121,
+    "protocolTvlUsd": 4767.161327657828,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Eden",
-    "protocolTvlUsd": 3807.8981888842727,
+    "protocolTvlUsd": 3580.3333895738974,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Etica",
-    "protocolTvlUsd": 3296.4377376004018,
-    "protocolCount": 1,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Darwinia",
-    "protocolTvlUsd": 2350.4955904203175,
+    "protocolTvlUsd": 3315.767592073778,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Soon Network",
-    "protocolTvlUsd": 2315.0976904733925,
+    "protocolTvlUsd": 2293.778990030476,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Darwinia",
+    "protocolTvlUsd": 2214.6729677318317,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "edgeX L1",
-    "protocolTvlUsd": 2010.1361287199009,
+    "protocolTvlUsd": 2010.380105464173,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -2303,16 +2317,16 @@
     "poolTvlUsd": 0
   },
   {
-    "chain": "OntologyEVM",
-    "protocolTvlUsd": 1743.5855931063847,
-    "protocolCount": 3,
+    "chain": "Stride",
+    "protocolTvlUsd": 1559.9330976854744,
+    "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Stride",
-    "protocolTvlUsd": 1519.8701656178716,
-    "protocolCount": 2,
+    "chain": "Bostrom",
+    "protocolTvlUsd": 1473.8302265827542,
+    "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -2324,22 +2338,15 @@
     "poolTvlUsd": 0
   },
   {
-    "chain": "Bostrom",
-    "protocolTvlUsd": 1447.054997699994,
-    "protocolCount": 1,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "GGCHAIN",
-    "protocolTvlUsd": 1224.4262945580347,
+    "protocolTvlUsd": 1224.4385779980214,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Bitgert",
-    "protocolTvlUsd": 1171.1318325287355,
+    "protocolTvlUsd": 1171.2210980507289,
     "protocolCount": 6,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -2353,49 +2360,49 @@
   },
   {
     "chain": "Swan",
-    "protocolTvlUsd": 1003.131339040343,
+    "protocolTvlUsd": 982.9384207159841,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "EDU Chain",
-    "protocolTvlUsd": 705.8432585145994,
+    "protocolTvlUsd": 705.8962274154469,
     "protocolCount": 9,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Sommelier",
-    "protocolTvlUsd": 696.7739660993486,
-    "protocolCount": 1,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Althea",
-    "protocolTvlUsd": 628.3232379954741,
+    "protocolTvlUsd": 625.161394791062,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Aeternity",
-    "protocolTvlUsd": 614.341369159721,
+    "protocolTvlUsd": 618.3937922958669,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Elysium",
-    "protocolTvlUsd": 593.9354253081669,
+    "chain": "Sommelier",
+    "protocolTvlUsd": 604.6151305388063,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Namada",
-    "protocolTvlUsd": 588.809838756787,
+    "protocolTvlUsd": 596.1890209116698,
+    "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Elysium",
+    "protocolTvlUsd": 592.7793423213529,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -2409,7 +2416,7 @@
   },
   {
     "chain": "exSat",
-    "protocolTvlUsd": 338.80742447683684,
+    "protocolTvlUsd": 342.3940373533953,
     "protocolCount": 4,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -2437,35 +2444,35 @@
   },
   {
     "chain": "Intuition",
-    "protocolTvlUsd": 127.71568461102238,
+    "protocolTvlUsd": 124.55483679606354,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Camp",
-    "protocolTvlUsd": 90.84771753597548,
-    "protocolCount": 1,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Hydra Chain",
-    "protocolTvlUsd": 73.63550578706166,
+    "protocolTvlUsd": 91.37067601082703,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "JOC",
-    "protocolTvlUsd": 18.285090858820823,
+    "protocolTvlUsd": 19.42655423650924,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
+    "chain": "OntologyEVM",
+    "protocolTvlUsd": 15.64853156196146,
+    "protocolCount": 2,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
     "chain": "MTT Network",
-    "protocolTvlUsd": 3.4065583872706124,
+    "protocolTvlUsd": 3.406939747329464,
     "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -2479,21 +2486,21 @@
   },
   {
     "chain": "Kusama",
-    "protocolTvlUsd": 0.5554588970387768,
+    "protocolTvlUsd": 0.5524909728958928,
     "protocolCount": 1,
     "poolCount": 1,
-    "poolTvlUsd": 770720
+    "poolTvlUsd": 778824
   },
   {
     "chain": "treasury",
-    "protocolTvlUsd": 0.4473553041232786,
+    "protocolTvlUsd": 0.4492924720259559,
     "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
     "chain": "Shiden",
-    "protocolTvlUsd": 0.02330283679589507,
+    "protocolTvlUsd": 0.023649682536728465,
     "protocolCount": 5,
     "poolCount": 0,
     "poolTvlUsd": 0
@@ -2530,13 +2537,6 @@
     "chain": "Swellchain",
     "protocolTvlUsd": 0,
     "protocolCount": 13,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Rayls",
-    "protocolTvlUsd": 0,
-    "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -2583,14 +2583,14 @@
     "poolTvlUsd": 0
   },
   {
-    "chain": "Plume",
+    "chain": "Dexit",
     "protocolTvlUsd": 0,
-    "protocolCount": 7,
+    "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Dexit",
+    "chain": "Omax",
     "protocolTvlUsd": 0,
     "protocolCount": 2,
     "poolCount": 0,
@@ -2600,6 +2600,13 @@
     "chain": "Meta",
     "protocolTvlUsd": 0,
     "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Plume",
+    "protocolTvlUsd": 0,
+    "protocolCount": 7,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -2657,24 +2664,10 @@
     "protocolTvlUsd": 0,
     "protocolCount": 2,
     "poolCount": 2,
-    "poolTvlUsd": 1581057
+    "poolTvlUsd": 1580898
   },
   {
     "chain": "WINR",
-    "protocolTvlUsd": 0,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Stargaze",
-    "protocolTvlUsd": 0,
-    "protocolCount": 2,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
-    "chain": "Umee",
     "protocolTvlUsd": 0,
     "protocolCount": 2,
     "poolCount": 0,
@@ -2691,6 +2684,20 @@
     "chain": "Mayachain",
     "protocolTvlUsd": 0,
     "protocolCount": 1,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Stargaze",
+    "protocolTvlUsd": 0,
+    "protocolCount": 2,
+    "poolCount": 0,
+    "poolTvlUsd": 0
+  },
+  {
+    "chain": "Umee",
+    "protocolTvlUsd": 0,
+    "protocolCount": 2,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -2751,16 +2758,16 @@
     "poolTvlUsd": 0
   },
   {
-    "chain": "Echelon",
+    "chain": "Redstone",
     "protocolTvlUsd": 0,
-    "protocolCount": 5,
+    "protocolCount": 1,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "Redstone",
+    "chain": "Echelon",
     "protocolTvlUsd": 0,
-    "protocolCount": 1,
+    "protocolCount": 5,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -2835,16 +2842,16 @@
     "poolTvlUsd": 0
   },
   {
-    "chain": "Bahamut",
+    "chain": "BounceBit",
     "protocolTvlUsd": 0,
-    "protocolCount": 6,
+    "protocolCount": 11,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
   {
-    "chain": "BounceBit",
+    "chain": "Bahamut",
     "protocolTvlUsd": 0,
-    "protocolCount": 11,
+    "protocolCount": 6,
     "poolCount": 0,
     "poolTvlUsd": 0
   },
@@ -3220,13 +3227,6 @@
     "poolTvlUsd": 0
   },
   {
-    "chain": "Omax",
-    "protocolTvlUsd": 0,
-    "protocolCount": 1,
-    "poolCount": 0,
-    "poolTvlUsd": 0
-  },
-  {
     "chain": "Bitindi",
     "protocolTvlUsd": 0,
     "protocolCount": 2,
@@ -3531,98 +3531,105 @@
     "chain": "BSC",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
-    "poolCount": 691,
-    "poolTvlUsd": 6731902118
+    "poolCount": 687,
+    "poolTvlUsd": 6720619987
   },
   {
     "chain": "XRPL",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
     "poolCount": 2,
-    "poolTvlUsd": 250131933
+    "poolTvlUsd": 250158106
   },
   {
     "chain": "Xlayer",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
     "poolCount": 9,
-    "poolTvlUsd": 115478404
+    "poolTvlUsd": 116696144
   },
   {
     "chain": "Bob",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
     "poolCount": 13,
-    "poolTvlUsd": 57717309
+    "poolTvlUsd": 57952632
   },
   {
     "chain": "Gnosis",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
     "poolCount": 27,
-    "poolTvlUsd": 106040778
+    "poolTvlUsd": 105927346
   },
   {
     "chain": "OP Mainnet",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
-    "poolCount": 435,
-    "poolTvlUsd": 219544065
+    "poolCount": 429,
+    "poolTvlUsd": 217160075
   },
   {
     "chain": "MultiversX",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
     "poolCount": 39,
-    "poolTvlUsd": 10465379
+    "poolTvlUsd": 10483181
   },
   {
     "chain": "Defichain",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
     "poolCount": 40,
-    "poolTvlUsd": 4754687
+    "poolTvlUsd": 4757727
+  },
+  {
+    "chain": "Native Core",
+    "protocolTvlUsd": 0,
+    "protocolCount": 0,
+    "poolCount": 6,
+    "poolTvlUsd": 3610368
   },
   {
     "chain": "Rootstock",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
     "poolCount": 6,
-    "poolTvlUsd": 3948893
+    "poolTvlUsd": 3961715
   },
   {
     "chain": "Fuel Ignition",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
     "poolCount": 1,
-    "poolTvlUsd": 968434
+    "poolTvlUsd": 981016
   },
   {
     "chain": "Echelon Initia",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
     "poolCount": 6,
-    "poolTvlUsd": 1386934
+    "poolTvlUsd": 1383235
   },
   {
     "chain": "Opbnb",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
     "poolCount": 4,
-    "poolTvlUsd": 407386
+    "poolTvlUsd": 407735
   },
   {
     "chain": "ZKsync Era",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
     "poolCount": 10,
-    "poolTvlUsd": 749664
+    "poolTvlUsd": 761023
   },
   {
     "chain": "Neo",
     "protocolTvlUsd": 0,
     "protocolCount": 0,
-    "poolCount": 9,
-    "poolTvlUsd": 328321
+    "poolCount": 8,
+    "poolTvlUsd": 317766
   }
 ]
