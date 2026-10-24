@@ -1,18 +1,16 @@
 {
-  "generatedAt": "2026-10-23T12:25:25.228Z",
-  "elapsedMs": 737,
+  "generatedAt": "2026-10-24T11:51:14.680Z",
+  "elapsedMs": 1329,
   "source": "DefiLlama (https://defillama.com) — api.llama.fi, yields.llama.fi, stablecoins.llama.fi",
   "counts": {
-    "protocols": 8806,
-    "yieldPools": 0,
-    "stablecoins": 426,
-    "chains": 453
+    "protocols": 8813,
+    "yieldPools": 15541,
+    "stablecoins": 425,
+    "chains": 468
   },
   "totals": {
-    "protocolTvlUsd": 590167434400.5166,
-    "stablecoinSupplyUsd": 304890391049.0492
+    "protocolTvlUsd": 583386360989.3915,
+    "stablecoinSupplyUsd": 304249707728.088
   },
-  "errors": [
-    "yields fetch failed: 404"
-  ]
+  "errors": []
 }
